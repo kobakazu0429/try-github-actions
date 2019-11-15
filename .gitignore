@@ -108,7 +108,7 @@ typings/
 # nuxt.js build output
 .nuxt
 
-# react / gatsby 
+# react / gatsby
 public/
 
 # vuepress build output
@@ -134,19 +134,4 @@ public/
 # Ignore all local history of files
 .history
 
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
-
-# End of https://www.gitignore.io/api/web,node,macos,visualstudiocode
+# End of https://www.gitignore.io/api/node,macos,visualstudiocode
