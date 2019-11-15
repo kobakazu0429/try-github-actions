@@ -1,0 +1,9 @@
+{
+  "name": "try-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kobakazu0429/try-github-actions.git",
+  "author": "kobakakzu0429 <kobakazu10@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
